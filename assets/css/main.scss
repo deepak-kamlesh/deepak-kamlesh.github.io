@@ -37,6 +37,9 @@
     "layout/sidebar"
 ;
 
+/* Fix the sticky footer alignment collision */
 .page__footer {
-  display: none !important;
+  position: static !important;
+  margin-top: 3em;
+  clear: both;
 }
