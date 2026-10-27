@@ -15,7 +15,7 @@ logo: null
 # Site Author Profile (Populates left-hand sidebar)
 author:
   name: "Deepak Kamlesh"
-  avatar: "/assets/images/bio-photo.jpg" # Place your headshot here later
+  avatar: "/assets/images/square-crop-website-profile-pic1.jpg" # Place your headshot here later
   bio: "Mathematician working at the interface of arithmetic geometry, number theory and mathematical physics, with particular interests in periods, motives and scattering amplitudes."
   location: "Bonn, Germany"
   links:
@@ -23,12 +23,21 @@ author:
     #  icon: "fab fa-fw fa-github"
     #  url: "https://deepak-kamlesh.github.io/"
     # Remove the '#' from the lines below when you have these links ready:
-     - label: "Email"
-       icon: "fas fa-fw fa-envelope"
-       url: "mailto:deepakkamlesh6@gmail.com"
-    # - label: "Google Scholar"
-    #   icon: "fas fa-fw fa-graduation-cap"
-    #   url: "https://google.com..."
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:deepakkamlesh6@gmail.com"
+    - label: "arXiv"
+      icon: "fas fa-fw fa-book"
+      url: "https://arxiv.org/a/kamlesh_d_1"
+    - label: "Inspire"
+      icon: "fas fa-fw fa-database"
+      url: "https://inspirehep.net/authors/2729278"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Gpo7ACkAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-7232-6147"
 
 # Footer Settings (Your custom branding request)
 footer:
