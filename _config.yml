@@ -16,16 +16,16 @@ logo: null
 author:
   name: "Deepak Kamlesh"
   avatar: "/assets/images/bio-photo.jpg" # Place your headshot here later
-  bio: "Theoretical Mathematician specializing in research."
-  location: "[Your University / City]"
+  bio: "Mathematician working at the interface of arithmetic geometry, number theory and mathematical physics, with particular interests in periods, motives and scattering amplitudes."
+  location: "Bonn, Germany"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://deepak-kamlesh.github.io/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://deepak-kamlesh.github.io/"
     # Remove the '#' from the lines below when you have these links ready:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope"
-    #   url: "mailto:your.email@university.edu"
+     - label: "Email"
+       icon: "fas fa-fw fa-envelope"
+       url: "mailto:deepakkamlesh6@gmail.com"
     # - label: "Google Scholar"
     #   icon: "fas fa-fw fa-graduation-cap"
     #   url: "https://google.com..."
@@ -35,7 +35,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com"
+      url: "https://github.com/deepak-kamlesh"
 
 # Build Configurations (Enables flawless Markdown processing)
 markdown: kramdown
