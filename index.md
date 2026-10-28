@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome"
+title: "Welcome! The website is currently being updated. Please check back later for a complete version."
 permalink: /
 author_profile: true
 ---
