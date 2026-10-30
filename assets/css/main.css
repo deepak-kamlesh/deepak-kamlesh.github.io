@@ -1,0 +1,11 @@
+---
+# Front matter dashes are required to tell Jekyll to process Sass variables
+---
+
+// Set variables BEFORE importing the theme engines
+$doc-font-size: 15px; 
+$nav-font-size: 0.85em;
+$max-width: 1250px;
+
+@import "minimal-mistakes/skins/default"; 
+@import "minimal-mistakes";               
