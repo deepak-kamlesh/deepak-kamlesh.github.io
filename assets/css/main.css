@@ -3,9 +3,35 @@
 ---
 
 // Set variables BEFORE importing the theme engines
-$doc-font-size: 15px; 
+$doc-font-size: 14px; // Reduced slightly from 15px
 $nav-font-size: 0.85em;
 $max-width: 1250px;
 
 @import "minimal-mistakes/skins/default"; 
-@import "minimal-mistakes";               
+@import "minimal-mistakes";
+
+/* 1. Remove underlines from links across the site */
+.page__content a,
+.author__urls a,
+.greedy-nav a {
+  text-decoration: none;
+}
+
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+/* 2. Refine paragraph & list font size */
+.page__content p,
+.page__content li {
+  font-size: 0.95em;
+  line-height: 1.65;
+}
+
+/* 3. Extend main content width to fill the empty right-hand space on desktop */
+@media (min-width: 80em) {
+  .page {
+    width: calc(100% - 260px);
+    padding-right: 2em;
+  }
+}
