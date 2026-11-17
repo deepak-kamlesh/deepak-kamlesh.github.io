@@ -1,0 +1,38 @@
+---
+---
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* Comfortable, consistent text sizing for page content only. */
+.page__content {
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+.page__content p,
+.page__content li,
+.page__content dl {
+  font-size: 1em;
+  line-height: 1.65;
+}
+
+.page__title {
+  font-size: 28px;
+}
+
+.page__content h2 {
+  font-size: 22px;
+}
+
+/* Links stay identifiable by color and underline on interaction. */
+.page__content a:not(.btn) {
+  text-decoration: none;
+  border-bottom: 0;
+  box-shadow: none;
+}
+
+.page__content a:not(.btn):hover,
+.page__content a:not(.btn):focus-visible {
+  text-decoration: underline;
+}
