@@ -1,7 +1,7 @@
 # Site Settings
 title: "Deepak Kamlesh"
 locale: "en-US"
-url: "https://deepak-kamlesh.github.io/"
+url: "https://deepak-kamlesh.github.io"
 baseurl: ""
 
 # Theme Customization (Minimal Mistakes default)
