@@ -3,6 +3,7 @@ layout: single
 title: "About Me"
 permalink: /
 author_profile: true
+classes: wide
 ---
 
 I am a mathematician working at the interface of **arithmetic geometry, number theory and mathematical physics**, with particular interests in periods, motives, special functions and scattering amplitudes.
