@@ -6,7 +6,7 @@
 
 /* Comfortable, consistent text sizing for page content only. */
 .page__content {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.65;
 }
 
@@ -17,10 +17,8 @@
   line-height: 1.65;
 }
 
-.page__title {
-  font-size: 28px;
-}
-
+/* Consistent heading sizes */
+.page__title,
 .page__content h2 {
   font-size: 22px;
 }
@@ -36,3 +34,11 @@
 .page__content a:not(.btn):focus-visible {
   text-decoration: underline;
 }
+
+/* Add comfortable right margin on wider screens */
+@media (min-width: 64em) {
+  .wide .page {
+    padding-inline-end: 3rem;
+  }
+}
+
