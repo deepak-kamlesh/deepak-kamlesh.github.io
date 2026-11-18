@@ -6,6 +6,10 @@ author_profile: true
 classes: wide
 ---
 
+**On this page:** [About Me](#about-me) · [Research Interests](#research-interests)
+
+<span id="about-me"></span>
+
 I am a mathematician working at the interface of **arithmetic geometry, number theory and mathematical physics**, with particular interests in periods, motives, special functions and scattering amplitudes.
 
 I obtained my DPhil in Mathematics from the **[University of Oxford](https://www.maths.ox.ac.uk/)** in 2024, under the supervision of **[Francis Brown](https://www.maths.ox.ac.uk/people/francis.brown)**. I subsequently held a postdoctoral fellowship at the **[Max Planck Institute for Mathematics in Bonn](https://www.mpim-bonn.mpg.de/)**.
