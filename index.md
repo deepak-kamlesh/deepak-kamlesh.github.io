@@ -24,6 +24,6 @@ My research interests include:
 
 - **Motivic structures at higher genus:** Zeta generators, motivic coactions and single-valued maps for higher-genus iterated integrals, with connections to scattering amplitudes.
 
-- **Scattering amplitudes, geometry and integrability:** Feynman integrals, string amplitudes, positive geometry, quantum integrability and the mathematical structures of quantum field theory.
+- **Scattering amplitudes, geometry and integrability:** Feynman integrals, string amplitudes, positive geometry, quantum integrability, bootstrap methods and the mathematical structures of quantum field theory.
 
 - **Exponential periods and non-perturbative structures:** Exponential motives, irregular differential equations, Stokes phenomena and resurgence, with applications to exact and non-perturbative amplitudes.
