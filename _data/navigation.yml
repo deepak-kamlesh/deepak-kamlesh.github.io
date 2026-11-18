@@ -8,6 +8,8 @@ main:
     url: /publications/
   - title: "Talks"
     url: /talks/
+  - title: "Events"
+    url: /events/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
