@@ -30,13 +30,13 @@ A principal motivation was to understand the conjectural coaction formulae propo
 
 In joint work with Hadleigh Frost, Martijn Hidding, Carlos Rodriguez, Oliver Schlotterer and Bram Verbeek, we introduced **zeta generators**, certain special derivations of Lie algebras associated with fundamental groups, and used them to reformulate motivic coactions and single-valued maps for multiple zeta values and multiple polylogarithms. We established the resulting identities at genus zero for multiple polylogarithms in arbitrarily many variables, giving a description compatible with the choice of fibration bases.
 
-A distinctive feature of zeta generators is their **genus-agnostic** formulation: they provide a common language for investigating iterated integrals associated with different geometries, with the aim of extending motivic structures beyond the sphere. This perspective has already led to fruitful developments at genus one, notably for **iterated Eisenstein integrals and modular graph forms** arising in the low-energy expansion of genus-one string amplitudes. Subsequent work has also proposed coactions on iterated Eisenstein integrals in this setting.
+A distinctive feature of zeta generators is their **genus-agnostic** formulation: they provide a common language for investigating iterated integrals associated with different geometries, with the aim of extending motivic structures beyond the sphere. This perspective has already led to fruitful developments at genus one, notably for **iterated Eisenstein integrals and modular graph forms** arising in the low-energy expansion of genus-one string amplitudes. 
 
 [Introducing zeta generators](https://doi.org/10.1088/1751-8121/ad5edf) · [Genus-zero results](https://arxiv.org/abs/2503.02096) · [Genus-one developments](https://doi.org/10.1007/s00220-025-05489-x) · [Genus-one coaction proposal](https://doi.org/10.1007/JHEP05%282026%29105)
 
 ### Single-valued multiple zeta values and special values
 
-In a separate ongoing project, I am investigating computational and algebraic approaches to **single-valued multiple zeta values** using the *f*-alphabet. This includes a research project with five undergraduate students whom I supervised at the Max Planck Institute for Mathematics in Bonn in 2026. One objective is to obtain explicit descriptions of single-valued multiple zeta values and translate them into identities among ordinary multiple zeta values.
+In a separate ongoing project, I am investigating computational and algebraic approaches to **single-valued multiple zeta values** using the *f*-alphabet. This includes a research project with five undergraduate students whom I supervised at the Max Planck Institute for Mathematics in Bonn in 2026. 
 
 A related interest concerns single-valued polylogarithms at algebraic arguments and their potential applications to **Zagier's conjecture** on special values of Dedekind zeta functions.
 
@@ -50,7 +50,7 @@ In joint work with Christopher Deninger, we investigated the **p-adic Simpson co
 
 ### Higher-genus motivic coactions and single-valued maps
 
-One of my principal research goals is to extend the theory of motivic coactions and single-valued maps beyond genus zero. The zeta-generator framework provides a promising starting point for organizing these operations through structures that are not restricted to a particular genus.
+One of my principal research goals is to extend the theory of motivic coactions and single-valued maps beyond genus zero. The zeta-generator framework provides a promising starting point for organising these operations through structures that are not restricted to a particular genus.
 
 I am especially interested in establishing rigorous motivic foundations at genus one, building on recent progress involving iterated Eisenstein integrals, and developing methods for more general higher-genus iterated integrals. A longer-term objective is to understand motivic structures for higher-genus scattering amplitudes and the relationships among their algebraic, geometric and analytic properties.
 
@@ -64,11 +64,11 @@ A major motivation is the appearance of exponential integrals and their ratios i
 
 **Drinfeld associators** and **Grothendieck–Teichmüller theory** provide a rich setting for investigating algebraic relations among multiple zeta values, fundamental groups and motivic Galois symmetries. My interests include explicit and rational associators, computational descriptions through the *f*-alphabet, and the relationships between associator equations and other algebraic structures governing periods.
 
-I am also studying connections between hypergeometric period matrices and associator equations, including generalizations of classical period identities and their algebraic formulations.
+I am also studying connections between hypergeometric period matrices and associator equations, including generalisations of classical period identities and their algebraic formulations.
 
 ### Arithmetic geometry of periods and Mahler measures
 
-A broader direction of my research concerns the arithmetic structure of periods, including their algebraic relations, motivic interpretations and realizations beyond the complex setting. I am interested in p-adic periods, q-deformed period structures and their connections to arithmetic and modular phenomena.
+A broader direction of my research concerns the arithmetic structure of periods, including their algebraic relations, motivic interpretations and realisations beyond the complex setting. I am interested in p-adic periods, q-deformed period structures and their connections to arithmetic and modular phenomena.
 
 In particular, I am interested in **Mahler measures** and their connections to regulators, algebraic K-theory, motivic cohomology and special values of L-functions. One goal is to understand how the geometry of families of algebraic varieties constrains the motives and regulator classes associated with Mahler measures, and consequently the periods and special values that can occur.
 
@@ -76,4 +76,4 @@ In particular, I am interested in **Mahler measures** and their connections to r
 
 I am interested in the mathematical structures underlying scattering amplitudes, particularly the interplay between geometry, special functions, motivic structures and integrability. This includes Feynman integrals and twisted cohomology, the role of **positive geometry** in amplitude constructions, and the connections between motivic structures and integrable models.
 
-I am particularly interested in quantum spectral curves and related structures that characterize exact quantities in integrable quantum field theories. A broader question is how the arithmetic and geometric information encoded by periods and motivic coactions interacts with integrability, both in perturbative expansions and in exact observables.
+I am particularly interested in quantum spectral curves and related structures that characterise exact quantities in integrable quantum field theories. A broader question is how the arithmetic and geometric information encoded by periods and motivic coactions interacts with integrability, both in perturbative expansions and in exact observables.
