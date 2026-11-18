@@ -47,4 +47,10 @@
   margin-bottom: 0.75em;
 }
 
+/* Slightly larger Welcome title on homepage only */
+body.homepage .page__title {
+  font-size: 26px;
+}
+
+
 
