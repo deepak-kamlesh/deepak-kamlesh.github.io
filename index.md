@@ -1,6 +1,7 @@
+
 ---
 layout: single
-title: "About Me"
+title: "Welcome"
 permalink: /
 author_profile: true
 classes: wide
@@ -8,7 +9,7 @@ classes: wide
 
 **On this page:** [About Me](#about-me) · [Research Interests](#research-interests)
 
-<span id="about-me"></span>
+## About Me
 
 I am a mathematician working at the interface of **arithmetic geometry, number theory and mathematical physics**, with particular interests in periods, motives, special functions and scattering amplitudes.
 
