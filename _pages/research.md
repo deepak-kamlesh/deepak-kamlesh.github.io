@@ -8,13 +8,13 @@ classes: wide
 
 **On this page:** [Overview](#overview) · [Previous and Ongoing Research](#previous-and-ongoing-research) · [Current Research Directions](#current-research-directions)
 
+*For a less technical introduction to the motivation behind my research, see [An Introduction to My Research](https://deepak-kamlesh.github.io/research/introduction/).*
+
 ## Overview
 
 My research concerns the arithmetic and geometric structures underlying periods and special functions, particularly their connections to quantum field theory and string theory. A central theme is the role of **motivic Galois theory** in understanding algebraic relations among periods, the structures of special functions, and the patterns observed in scattering amplitudes.
 
 I am interested both in developing the mathematical foundations of these structures and in extending motivic methods to new classes of periods, geometric settings and physical observables. This includes connections among arithmetic geometry, fundamental groups, differential equations, integrability and the geometry of scattering amplitudes.
-
-*For a less technical introduction to the motivation behind my research, see [An Introduction to My Research](/research/introduction/).*
 
 ## Previous and Ongoing Research
 
