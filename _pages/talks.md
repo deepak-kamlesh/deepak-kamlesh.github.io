@@ -6,10 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-## Selected Invited Research Talks
-
-**Motivic Galois Theory and Hypergeometric Functions**  
-MZV Seminar, Nagoya University, Japan — 22 May 2026.
+## Invited Conference Talks
 
 **Motivic Coaction for Hypergeometric Functions**  
 *Elliptics and Beyond '25*, Bethe Center for Theoretical Physics, University of Bonn, Germany — 3 September 2025.  
@@ -18,3 +15,8 @@ MZV Seminar, Nagoya University, Japan — 22 May 2026.
 **Motivic coaction on generalized hypergeometric functions**  
 *Elliptics '21*, Uppsala University, Sweden (online talk) — 19 October 2021.  
 [Conference page](https://indico.uu.se/event/907/contributions/1792/) · [Recording](https://indico.uu.se/event/907/contributions/1792/attachments/1297/1836/Kamlesh.mp4)
+
+## Invited External Seminar Talks
+
+**Motivic Galois Theory and Hypergeometric Functions**  
+MZV Seminar, Nagoya University, Japan — 22 May 2026.
