@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-**On this page:** [Appointments](#academic-appointments) · [Education](#education) · [Scholarships](#selected-scholarships-and-research-funding) · [Awards](#selected-competitive-awards-and-participation) · [Society Memberships](#academic-society-memberships) · [Computational Skills](#computational-proficiency) · [Academic Service and Outreach](#academic-service-and-outreach)
+**On this page:** [Appointments](#academic-appointments) · [Education](#education) · [Scholarships](#selected-scholarships-and-research-funding) · [Awards](#selected-competitive-awards-and-participation) · [Academic Project](#selected-academic-projects) · [Society Memberships](#academic-society-memberships) · [Computational Skills](#computational-proficiency) · [Academic Service and Outreach](#academic-service-and-outreach)
 
 For further details of my academic work and activities, see my [Research](/research/), [Publications](/publications/), [Talks](/talks/) and [Teaching](/teaching/) pages.
 
@@ -21,7 +21,7 @@ For further details of my academic work and activities, see my [Research](/resea
 - **2018–2024:** DPhil in Mathematics, [University of Oxford](https://www.maths.ox.ac.uk/), UK.
   - **Supervisor:** [Francis Brown](https://www.maths.ox.ac.uk/people/francis.brown).
   - **Thesis:** *[Motivic coaction on generalized hypergeometric functions](https://ora.ox.ac.uk/objects/uuid:05df09b2-93f5-4750-a2ef-2ba1cf213fed)*.
-- **2017–2018:** MSc in Mathematics (Specialisation: Analysis, Arithmetic and Geometry), University of Paris-Sud, Orsay, France.
+- **2017–2018:** Master 2 in Analysis, Arithmetic and Geometry, University of Paris-Sud, Orsay, France.
 - **2012–2017:** Integrated MSc in Mathematics, UM–DAE Centre for Excellence in Basic Sciences, University of Mumbai, India.
 
 ## Selected Scholarships and Research Funding
@@ -42,6 +42,10 @@ For further details of my academic work and activities, see my [Research](/resea
 - **2014:** First prize among 7,672 participants, **Madhava Mathematics Competition**, a national-level mathematics Olympiad competition for undergraduates in India.
 - **2014:** Winner, Samasya (mathematics Olympiad), and second prize, Publish or Perish, at Pravega, Indian Institute of Science, Bengaluru.
 - **2012:** Participated in the Indian National Mathematics Olympiad after qualifying for the Regional Mathematics Olympiad in 2011.
+
+## Selected Academic Projects
+
+- **2023:** TCC broadening project, *Formalising Number Theory and Geometry*, taught by [Kevin Buzzard](https://www.ma.imperial.ac.uk/~buzzard/) at Imperial College London. Developed Lean code for Noetherian schemes with a view to contributing to the `mathlib` library.
 
 ## Academic Society Memberships
 

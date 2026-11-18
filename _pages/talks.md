@@ -6,7 +6,10 @@ author_profile: true
 classes: wide
 ---
 
-## Invited Conference Talks
+## Selected Invited Research Talks
+
+**Motivic Galois Theory and Hypergeometric Functions**  
+MZV Seminar, Nagoya University, Japan — 22 May 2026.
 
 **Motivic Coaction for Hypergeometric Functions**  
 *Elliptics and Beyond '25*, Bethe Center for Theoretical Physics, University of Bonn, Germany — 3 September 2025.  
