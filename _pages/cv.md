@@ -21,8 +21,8 @@ For further details of my academic work and activities, see my [Research](/resea
 - **2018–2024:** DPhil in Mathematics, [University of Oxford](https://www.maths.ox.ac.uk/), UK.
   - **Supervisor:** [Francis Brown](https://www.maths.ox.ac.uk/people/francis.brown).
   - **Thesis:** *[Motivic coaction on generalized hypergeometric functions](https://ora.ox.ac.uk/objects/uuid:05df09b2-93f5-4750-a2ef-2ba1cf213fed)*.
-- **2017–2018:** Master 2 in Analysis, Arithmetic and Geometry, University of Paris-Sud, Orsay, France.
-- **2012–2017:** Integrated MSc in Mathematics, UM–DAE Centre for Excellence in Basic Sciences, University of Mumbai, India.
+- **2017–2018:** MSc in Analysis, Arithmetic and Geometry, University of Paris-Sud, Orsay, France.
+- **2012–2017:** BSc and Integrated MSc in Mathematics, UM–DAE Centre for Excellence in Basic Sciences, University of Mumbai, India.
 
 ## Selected Scholarships and Research Funding
 
