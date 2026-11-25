@@ -24,6 +24,7 @@ social:
     - "https://orcid.org/0000-0001-7232-6147"
     - "https://www.ams.org/mathscinet/MRAuthorID/1625594"
     - "https://www.semanticscholar.org/author/Deepak-Kamlesh/2269145039"
+    - "https://openalex.org/authors/A5038708368"
 
 # Site Author Profile (Populates left-hand sidebar)
 author:
@@ -57,6 +58,9 @@ author:
     - label: "Semantic Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://www.semanticscholar.org/author/Deepak-Kamlesh/2269145039"
+    - label: "OpenAlex"
+      icon: "fas fa-fw fa-database"
+      url: "https://openalex.org/authors/A5038708368"
 
 # Footer Settings (Your custom branding request)
 footer:
