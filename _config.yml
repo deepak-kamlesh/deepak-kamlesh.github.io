@@ -13,6 +13,17 @@ minimal_mistakes_skin: "default" # Try changing to "air", "mint", or "contrast" 
 description: "Deepak Kamlesh is a mathematician researching periods, motives, arithmetic geometry, special functions, motivic Galois theory and scattering amplitudes."
 title_separator: "|"
 logo: null
+# Structured data for academic identity and search engines
+social:
+  type: Person
+  name: "Deepak Kamlesh"
+  links:
+    - "https://arxiv.org/a/kamlesh_d_1"
+    - "https://inspirehep.net/authors/2729278"
+    - "https://scholar.google.com/citations?user=Gpo7ACkAAAAJ&hl=en"
+    - "https://orcid.org/0000-0001-7232-6147"
+    - "https://www.ams.org/mathscinet/MRAuthorID/1625594"
+    - "https://www.semanticscholar.org/author/Deepak-Kamlesh/2269145039"
 
 # Site Author Profile (Populates left-hand sidebar)
 author:
@@ -40,6 +51,12 @@ author:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-7232-6147"
+    - label: "MathSciNet"
+      icon: "fas fa-fw fa-book-open"
+      url: "https://www.ams.org/mathscinet/MRAuthorID/1625594"
+    - label: "Semantic Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://www.semanticscholar.org/author/Deepak-Kamlesh/2269145039"
 
 # Footer Settings (Your custom branding request)
 footer:
